@@ -58,7 +58,7 @@ A premium, high-fidelity **Offline-First PWA** designed for professional mosque 
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/mohamedtr/Awkat-Salat.git
 cd mosque-prayer-times
 npm install
 ```
